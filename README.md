@@ -10,10 +10,10 @@ Sinta-se a vontade para me acompanhar em cada CTF e se desafiar junto comigo nes
 
 ## SOBRE O WRITEUP
 
-O _writeup_ seguirá uma série de padrões para facilitar a compreensão e estudos:
+O _writeup_ seguirá uma série de padrões para facilitar a compreensão e direcionar os seus estudos:
 * Link: hyperlink direcionando para a página do desafio na plataforma em que foi postado;
 
-* Nível: identificação textual e imagem elaborada destacando a dificuldade do desafio, podendo ser: Easy, Medium, Hard e Insane.
+* Nível: identificação textual e imagem destacando a dificuldade do desafio, divididos em: _Easy_, _Medium, _Hard_ e _Insane_.
   
 ![niveis](https://github.com/ETR00M/Level-Up/assets/145224019/98dc703c-c0cf-4d90-a25a-bd064b91ddeb)
   
@@ -28,8 +28,11 @@ O _writeup_ seguirá uma série de padrões para facilitar a compreensão e estu
     * Conceituais: base numérica (binário, hexadecimal) Hash (MD5, SHA256), lógica de programação (estrutura condicional, laços de repetição);
       
     * Solução de problemas: pensamento linear (seguir passos lógicos e intuitivos), pensamento fora da caixa (necessário certa criatividade para alçar a solução);
+  
+* Dicas de materiais para estudo (__de preferência em português__): materiais disponíveis gratuitamente na internet para apoiar o estudo do tema do CTF, ao estudar esses materiais você deve ser capaz de concluir a _challenge_ proposta;
    
-***
+##
+
 Neste repositório você encontrará materiais escritos exclusivamente por mim!
 - ©️ Sinta-se a vontade para utilizar os conteúdos, dando os devidos créditos ao autor.
 
