@@ -1,11 +1,35 @@
-## PROJETO LEVEL UP
+# PROJETO LEVEL UP
 
-O projeto LEVEL UP é um exercício pessoal de desenvolvimento diário em _Hacking_.
-O objetivo é realizar a maior quantidade de CTF's durante o ano, acompanhado de estudos de conceitos e materiais teóricos necessários para resolução de cada _challenge_.
+O projeto __LEVEL UP__ é um exercício pessoal de desenvolvimento constante em _Hacking_.
 
-A cada desafio concluído escreverei um _Writeup_ contendo instruções e dicas de materiais de estudos recomendados para melhor compreensão dos temas abordados.
+O objetivo é realizar a maior quantidade de CTF's durante o ano, acompanhado de estudos dos conceitos e materiais teóricos necessários para resolução da _challenge_.
+
+A cada desafio concluído escreverei um _Writeup_ contendo instruções e recomendações de materiais de estudo para melhor compreensão dos temas abordados.
+
 Sinta-se a vontade para me acompanhar em cada CTF e se desafiar junto comigo nessa trajetória.
 
+## SOBRE O WRITEUP
+
+O _writeup_ seguirá uma série de padrões para facilitar a compreensão e estudos:
+* Link: hyperlink direcionando para a página do desafio na plataforma em que foi postado;
+
+* Nível: identificação textual e imagem elaborada destacando a dificuldade do desafio, podendo ser: Easy, Medium, Hard e Insane.
+  
+![niveis](https://github.com/ETR00M/Level-Up/assets/145224019/98dc703c-c0cf-4d90-a25a-bd064b91ddeb)
+  
+* Categoria: campo de estudo o qual a _challenge_ pertence;
+  
+* Tag: identificadores de temas, comandos, conceitos, etc. necessários para concluir o desafio;
+  
+  * As tags são divididas entre técnicas, conceituais e de solução de problemas, exemplos:
+    
+    * Técnicas: comandos básicos Linux (ls, file, find), linguagem de programação (python, javascript);
+      
+    * Conceituais: base numérica (binário, hexadecimal) Hash (MD5, SHA256), lógica de programação (estrutura condicional, laços de repetição);
+      
+    * Solução de problemas: pensamento linear (seguir passos lógicos e intuitivos), pensamento fora da caixa (necessário certa criatividade para alçar a solução);
+   
+***
 Neste repositório você encontrará materiais escritos exclusivamente por mim!
 - ©️ Sinta-se a vontade para utilizar os conteúdos, dando os devidos créditos ao autor.
 
