@@ -13,7 +13,7 @@ Sinta-se a vontade para me acompanhar em cada CTF e se desafiar junto comigo nes
 O _writeup_ seguirá uma série de padrões para facilitar a compreensão e direcionar os seus estudos:
 * Link: hyperlink direcionando para a página do desafio na plataforma em que foi postado;
 
-* Nível: identificação textual e imagem destacando a dificuldade do desafio, divididos em: _Easy_, _Medium, _Hard_ e _Insane_.
+* Nível: identificação textual e imagem destacando a dificuldade do desafio, divididos em: _Easy_, _Medium_, _Hard_ e _Insane_.
   
 ![niveis](https://github.com/ETR00M/Level-Up/assets/145224019/98dc703c-c0cf-4d90-a25a-bd064b91ddeb)
   
@@ -21,7 +21,7 @@ O _writeup_ seguirá uma série de padrões para facilitar a compreensão e dire
   
 * Tag: identificadores de temas, comandos, conceitos, etc. necessários para concluir o desafio;
   
-  * As tags são divididas entre técnicas, conceituais e de solução de problemas, exemplos:
+  * As tags são divididas entre: __Técnicas__, __Conceituais__ e de __Solução de problemas__, exemplos:
     
     * Técnicas: comandos básicos Linux (ls, file, find), linguagem de programação (python, javascript);
       
