@@ -15,9 +15,8 @@ O _writeup_ seguirá uma série de padrões para facilitar o entendimento e dire
 
 * Nível: identificação textual e imagem destacando a dificuldade do desafio, divididos em: _Easy_, _Medium_, _Hard_ e _Insane_, alguns desafios podem podem conter um __(+)__ ou __(++)__ na identificação textual indicando um grau de dificuldade mais elevado dentro do nível da _challenge_;
 
-![image](https://github.com/ETR00M/Level-Up/blob/main/Images/Niveis.png)
 <p align="center">
-  <img src="https://github.com/ETR00M/Level-Up/blob/main/Images/Niveis.png" alt="Níveis de Dificuldade"/>
+  <img src="https://github.com/ETR00M/Level-Up/blob/main/Images/Niveis.png"/>
 </p>
   
 * Categoria: campo de estudo o qual a _challenge_ pertence;
