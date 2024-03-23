@@ -1,6 +1,6 @@
-# PROJETO LEVEL UP
+# PROJETO LEVEL-UP
 
-O projeto __LEVEL UP__ é um exercício pessoal de desenvolvimento constante em _Hacking_.
+O projeto __LEVEL-UP__ é um exercício pessoal de desenvolvimento constante em _Hacking_.
 
 O objetivo é realizar a maior quantidade de CTF's durante o ano, acompanhado de estudos dos conceitos e materiais teóricos necessários para resolução da _challenge_.
 
