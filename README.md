@@ -13,7 +13,7 @@ Sinta-se a vontade para me acompanhar em cada CTF e se desafiar junto comigo nes
 O _writeup_ seguirá uma série de padrões para facilitar o entendimento e direcionar os seus estudos, alguns deles são:
 * Link: _hyperlink_ para o desafio na plataforma em que foi postado;
 
-* Nível: identificação textual e imagem destacando a dificuldade do desafio, divididos em: _Easy_, _Medium_, _Hard_ e _Insane_, alguns desafios podem podem conter um __(__ __+__ __)__ ou __(++)__ na identificação textual indicando um grau de dificuldade mais elevado dentro do nível da _challenge_;
+* Nível: identificação textual e imagem destacando a dificuldade do desafio, divididos em: _Easy_, _Medium_, _Hard_ e _Insane_, alguns desafios podem podem conter um __(+)__ ou __(++)__ na identificação textual indicando um grau de dificuldade mais elevado dentro do nível da _challenge_;
 
 <p align="center">
   <img src="https://github.com/ETR00M/Level-Up/blob/main/Images/Niveis.png"/>
