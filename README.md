@@ -14,7 +14,7 @@ O _writeup_ seguirá uma série de padrões para facilitar o entendimento e dire
 * Link: _hyperlink_ para o desafio na plataforma em que foi postado;
 
 * Nível: identificação textual da dificuldade proposta pelo autor do desafio e imagem indicando minha percepção de dificuldade, divididos em: _Easy_, _Medium_, _Hard_ e _Insane_:
-  * Algumas imagens podem podem conter um __*__ ou __**__ indicando que na minha percepção o desafio possui um grau de dificuldade mais elevado dentro do nível da _challenge_;
+  * Algumas imagens podem podem conter um __*__ indicando que na minha percepção o desafio possui um grau de dificuldade mais elevado dentro do nível da _challenge_;
 
 <p align="center">
   <img src="https://github.com/ETR00M/Level-Up/blob/main/Images/Niveis.png"/>
